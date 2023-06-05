@@ -12,7 +12,7 @@ def buildDeck(filename):
         with open(filename, 'r') as file:
             cards = file.readlines()
     except FileNotFoundError:
-        print("Error opening file. Program exititng.")
+        print("Error opening file.\nTry: 'python3 multrainer.py help', or\n'python3 multrainer.py list-decks'.\nProgram exititng.")
         sys.exit()
     for card in cards:
         card = card.strip()
