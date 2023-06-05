@@ -1,0 +1,12 @@
+""" Delete this comment, and add the name of each card in your deck
+to an individual line in this text file. Do not add any additional 
+information on each line besides the name of the card. You should
+end up with 60 lines of text with a cardname on each.
+examplecard1
+examplecard1
+examplecard1
+examplecard1
+examplecard2
+examplecard2
+examplecard2
+examplecard2"""
