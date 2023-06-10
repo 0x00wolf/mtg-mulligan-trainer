@@ -1,7 +1,7 @@
 from random import shuffle, randint
 import sys
 
-premade_decks = ['murktide', 'crashing_footfalls', 'indomitable_creativity', 'hammer_time', 'yawgmoth', 'decklist']
+premade_decks = ['murktide', 'crashing_footfalls', 'indomitable_creativity', 'hammer_time', 'yawgmoth', 'scam', 'decklist']
 deck = []
 shuffledDeck = []
 
