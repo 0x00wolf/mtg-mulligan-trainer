@@ -4,3 +4,6 @@ I built this app to quickly simulate the act of shuffling, and drawing a hand in
 
 ## Installation and Usage:
 Clone the repository and run "python3 multrainer.py help" for usage instructions, or "python3 multrainer.py list-decks" to see the premade deck options. To edit the cards in the deck simply change the values in the corresponding text file in the decklists folder. There is a decklist.txt file for users to create their own custom lists, which can be used with "python3 multrainer.py decklist".
+
+## Statscript
+This is a less user friendly script I wrote to find out the percentage of times a given card in a deck would appear in a starting hand over 100,000 draws.
